@@ -11,5 +11,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+Stay `Positive` loop
+```java
+while(true)
+  System.out.Println("Be Positive");
+```
 <img src = "https://github-readme-stats.vercel.app/api?username=Tanishq6210&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq6210&show_icons=true&theme=radical">
