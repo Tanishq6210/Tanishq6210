@@ -2,9 +2,15 @@
 
 - 🌱 I’m currently studying Information Technology from VIT Vellore
 - 👀 I’m interested in Android Development and Competitive Coding
+
+<div align="center">
+   <img width="320px" src="https://tenor.com/view/android-update-maintenance-gif-16830375.gif"></img> 
+</div>
+
 - 🌱 I’m currently learning Android Development
 - 👯 I’m looking to collaborate on Android Projects
 - 📫 You can reach me: [LinkedIn](https://www.linkedin.com/in/tanishq-tyagi/)
+
 
 ## TOOLS & LANGUAGES
 <img src ="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2E8B57" width = "120" height = "30"> <img src ="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C&logoColor=white&color=2E8B57" width = "120" height = "30">
