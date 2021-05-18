@@ -19,14 +19,14 @@
 <img src ="https://img.shields.io/badge/Code-github-informational?style=flat&logo=git&logoColor=white&color=2E8B57" width = "120" height = "30">
 
 <p align="right">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq6210&show_icons=true&title_color=ffffff&icon_color=00FA9A&text_color=daf7dc&bg_color=151515" width = "400" height = "400" align = "right">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq6210&theme=gotham" width = "400" height = "400" align = "right">
   </p>                 
 
 ## 📈 MY STATS:
-![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanishq6210&show_icons=true&theme=dark)
+![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanishq6210&show_icons=true&theme=gotham)
 
 ## 🎇 MY STREAK:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanishq6210&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanishq6210&theme=gotham)](https://git.io/streak-stats)
                  
 
 
