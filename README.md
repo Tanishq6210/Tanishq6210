@@ -8,9 +8,12 @@
 - 👀 I’m interested in Android Development and Competitive Coding
 - 🌱 I’m currently learning Android Development
 - 👯 I’m looking to collaborate on Android Projects
-- 📫 You can reach me: [LinkedIn](https://www.linkedin.com/in/tanishq-tyagi/)
+- 📫 You can reach me: [LinkedIn](https://www.linkedin.com/in/tanishq-tyagi/) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tanishq6210&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaynithin2002" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tanishq6210&label=Profile%20views&color=0e75b6&style=flat" alt="Tanishq6210" /> </p>
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 
 ## 💻 TOOLS & LANGUAGES:
 <img src ="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2E8B57" width = "120" height = "30"> <img src ="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C&logoColor=white&color=2E8B57" width = "120" height = "30">
@@ -26,5 +29,6 @@
 
 ## 🎇 MY STREAK:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanishq6210&theme=gotham)](https://git.io/streak-stats)
+
 
 
