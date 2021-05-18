@@ -20,7 +20,7 @@
 
 <p align="right">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq6210&theme=gotham" width = "400" height = "400" align = "right">
-  </p>                 
+</p>                 
 
 ## 📈 MY STATS:
 ![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanishq6210&show_icons=true&theme=gotham)
