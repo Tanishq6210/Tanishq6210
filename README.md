@@ -18,14 +18,13 @@
 <img src ="https://img.shields.io/badge/Code-Android-informational?style=flat&logo=Android&logoColor=white&color=2E8B57" width = "120" height = "30">
 <img src ="https://img.shields.io/badge/Code-github-informational?style=flat&logo=git&logoColor=white&color=2E8B57" width = "120" height = "30">
 
-
+## 📙 MOST USED LANGUAGES:
+ <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq6210&theme=gotham" height = "140">
 
 ## 📈 MY STATS
-![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanishq6210&show_icons=true&theme=gotham) <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq6210&theme=gotham" height = "190">
+![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanishq6210&show_icons=true&theme=gotham)
 
 ## 🎇 MY STREAK:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanishq6210&theme=gotham)](https://git.io/streak-stats)
-
-
 
 
