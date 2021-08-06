@@ -22,7 +22,7 @@
 <img src ="https://img.shields.io/badge/Code-github-informational?style=flat&logo=git&logoColor=white&color=2E8B57" width = "120" height = "30">
 
 ## 📙 MOST USED LANGUAGES:
- <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq6210&theme=gotham" height = "140">
+ <img alt="priyankaaa532002's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq6210&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 
 ## 📈 MY STATS
 ![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanishq6210&show_icons=true&theme=gotham)
