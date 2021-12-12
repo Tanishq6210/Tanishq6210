@@ -16,10 +16,10 @@
 
 
 ## 💻 TOOLS & LANGUAGES:
-<img src ="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2E8B57" width = "120" height = "30"> <img src ="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C&logoColor=white&color=2E8B57" width = "120" height = "30">
-<img src ="https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2E8B57" width = "120" height = "30">
-<img src ="https://img.shields.io/badge/Code-Android-informational?style=flat&logo=Android&logoColor=white&color=2E8B57" width = "120" height = "30">
-<img src ="https://img.shields.io/badge/Code-github-informational?style=flat&logo=git&logoColor=white&color=2E8B57" width = "120" height = "30">
+<img src ="https://raw.githubusercontent.com/Tanishq6210/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/c.svg" width = "50" height = "50"> <img src ="https://raw.githubusercontent.com/Tanishq6210/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/cpp.svg" width = "50" height = "50"> <img src ="https://raw.githubusercontent.com/Tanishq6210/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/java.svg" width = "50" height = "50"> <img src ="https://raw.githubusercontent.com/Tanishq6210/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg" width = "50" height = "50">  <img src ="https://raw.githubusercontent.com/Tanishq6210/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" width = "50" height = "50">  <img src ="https://raw.githubusercontent.com/Tanishq6210/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/express.svg" width = "50" height = "50">  <img src ="https://raw.githubusercontent.com/Tanishq6210/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/nodejs.svg" width = "50" height = "50">  <img src ="https://raw.githubusercontent.com/Tanishq6210/github-profile-readme-generator/master/src/images/icons/Database/mongodb.svg" width = "50" height = "50"> <img src ="https://raw.githubusercontent.com/Tanishq6210/github-profile-readme-generator/master/src/images/icons/Database/oracle.svg" width = "50" height = "50">  <img src ="https://raw.githubusercontent.com/Tanishq6210/github-profile-readme-generator/master/src/images/icons/Database/mysql.svg" width = "50" height = "50">  <img src ="https://raw.githubusercontent.com/Tanishq6210/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/html.svg" width = "50" height = "50">
+
+
+
 
 ## 📙 MOST USED LANGUAGES:
  <img alt="priyankaaa532002's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq6210&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
