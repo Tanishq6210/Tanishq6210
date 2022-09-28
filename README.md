@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tanishq6210&label=Profile%20views&color=0e75b6&style=flat" alt="Tanishq6210" /> </p>
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 
 
 ## 💻 TOOLS & LANGUAGES:
@@ -30,5 +30,4 @@
 ## 🎇 MY STREAK:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanishq6210&theme=gotham)](https://git.io/streak-stats)
 
-
-
+[![@tanishq_6210's Holopin board](https://holopin.io/api/user/board?user=tanishq_6210)](https://holopin.io/@tanishq_6210)
