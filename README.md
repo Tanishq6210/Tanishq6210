@@ -1,3 +1,6 @@
+## 🕊 HOLOPIN BADGE BOARD:
+[![@tanishq_6210's Holopin board](https://holopin.io/api/user/board?user=tanishq_6210)](https://holopin.io/@tanishq_6210)
+
 <p align="right">
   <img src ="https://tenor.com/view/android-update-maintenance-gif-16830375.gif" width = "400" height = "400" align = "right">
   </p>
@@ -29,6 +32,3 @@
 
 ## 🎇 MY STREAK:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanishq6210&theme=gotham)](https://git.io/streak-stats)
-
-## 🕊 HOLOPIN BADGE BOARD:
-[![@tanishq_6210's Holopin board](https://holopin.io/api/user/board?user=tanishq_6210)](https://holopin.io/@tanishq_6210)
