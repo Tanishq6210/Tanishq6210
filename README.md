@@ -6,9 +6,9 @@
 
 # Hey, I'm Tanishq <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🌱 I’m currently studying Information Technology from VIT Vellore
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently doing B.Tech in Information Technology from VIT Vellore
+- 👀 I’m interested in Android and Blockchain Development
+- 🌱 I’m currently learning web3 and Blockchain Development
 - 👯 I’m looking to collaborate on Android Projects
 - 📫 You can reach me: [LinkedIn](https://www.linkedin.com/in/tanishq-tyagi/) 
 
