@@ -24,10 +24,11 @@
 
 
 ## 📙 MOST USED LANGUAGES:
- <img alt="priyankaaa532002's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq6210&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq6210&layout=compact&show_icons=true&theme=tokyonight)
+
 
 ## 📈 MY STATS
-![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanishq6210&show_icons=true&theme=gotham)
+![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanishq6210&show_icons=true&theme=tokyonight)
 
 ## 🎇 MY STREAK:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanishq6210&theme=gotham)](https://git.io/streak-stats)
