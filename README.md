@@ -7,10 +7,9 @@
 # Hey, I'm Tanishq <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🏢 I'm currently working as a Software Engineer at VISA
+- 👀 I’m a full-stack developer with an experience of 1.5+ years.
 - 🌱 I have completed my B.Tech in Information Technology from VIT Vellore
-- 👀 I’m interested in Android and Blockchain Development
-- 🌱 I’m currently learning web3 and Blockchain Development
-- 📫 You can reach me: [LinkedIn](https://www.linkedin.com/in/tanishq-tyagi/) 
+- 📫 You can reach me: Portfolio [https://tanishqtyagi.in], [LinkedIn](https://www.linkedin.com/in/tanishq-tyagi/) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tanishq6210&label=Profile%20views&color=0e75b6&style=flat" alt="Tanishq6210" /> </p>
 
