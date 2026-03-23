@@ -6,7 +6,8 @@
 
 # Hey, I'm Tanishq <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🌱 I’m currently doing B.Tech in Information Technology from VIT Vellore
+- 🏢 I'm currently working as a Software Engineer at VISA
+- 🌱 I have completed my B.Tech in Information Technology from VIT Vellore
 - 👀 I’m interested in Android and Blockchain Development
 - 🌱 I’m currently learning web3 and Blockchain Development
 - 📫 You can reach me: [LinkedIn](https://www.linkedin.com/in/tanishq-tyagi/) 
