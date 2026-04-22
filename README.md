@@ -7,7 +7,7 @@
 # Hey, I'm Tanishq <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🏢 I'm currently working as a Software Engineer at VISA
-- 👀 I’m a full-stack developer with an experience of 1.5+ years.
+- 👀 I’m a full-stack developer, Data Engineer with an experience of 1.5+ years
 - 🌱 I have completed my B.Tech in Information Technology from VIT Vellore
 - 📫 You can reach me: [Portfolio](https://tanishqtyagi.in), [LinkedIn](https://www.linkedin.com/in/tanishq-tyagi/) 
 
